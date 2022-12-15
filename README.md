@@ -1,5 +1,12 @@
 <div align="left">
-  <a href="#"><img src="https://github.com/bonfiglioalessio/bonfiglioalessio/blob/master/devcard.svg" width="400" alt="Alessio Bonfiglio's Dev Card"/></a>
+<a href="https://app.daily.dev/bonfiglioalessi" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/bonfiglioalessio/bonfiglioalessio/blob/master/devcard.svg"
+      alt="Alessio Bonfiglio's Dev Card"
+    />
+  </a>
 </div>
 
 
