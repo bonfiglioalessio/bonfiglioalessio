@@ -1,11 +1,3 @@
-<a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/farms/bonfiglioalessio"
-      width="600"
-      height="300"
-    />
-</a>
-
 <div align="left">
     <a href="https://app.daily.dev/bonfiglioalessi"><img align="right" src="https://api.daily.dev/devcards/6ebb76c09ec2470aa287b8a769cf3c50.png?r=wlr"      width="400" alt="<A.BONFIGLIO/>'s Dev Card"/></a>
 </div>
@@ -19,7 +11,13 @@
 - 📫 How to reach me -> bonfi.alessio98@gmail.com
 
 
-
+<a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/bonfiglioalessio"
+      width="100%"
+      height="300"
+    />
+</a>
 
 
 <!---
