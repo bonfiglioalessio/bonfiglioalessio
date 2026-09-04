@@ -10,11 +10,16 @@
 - 💞️ I’m looking to collaborate on Javascipt/React Project
 - 📫 How to reach me -> bonfi.alessio98@gmail.com
 
+<br>
+<br>
+<br>
+<br>
+
 
 <a href="https://github.com/devxb/gitanimals">
     <img
       src="https://render.gitanimals.org/farms/bonfiglioalessio"
-      width="100%"
+      width="50%"
       height="300"
     />
 </a>
